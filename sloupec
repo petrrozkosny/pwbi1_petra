@@ -1,0 +1,1 @@
+(if Text.Length(Text.From([mesic])) = 1 then "0"&Text.From([mesic]) else Text.From([mesic])) &"-"&Text.From([rok])
